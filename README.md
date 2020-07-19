@@ -1,0 +1,2 @@
+# TugasRPL
+Hanya script saja 
